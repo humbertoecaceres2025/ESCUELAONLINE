@@ -1,0 +1,43 @@
+
+---
+
+## 🖥️ Uso
+
+1. Abrir `index.html` en un navegador web.  
+2. Completar el formulario con:  
+   - Título de la noticia  
+   - Fecha  
+   - Texto  
+   - Imágenes (URL opcional)  
+   - Categoría (Noticias, Eventos, Avisos)  
+3. Hacer clic en **"Agregar Noticia"**.  
+4. Verás la noticia publicada en la sección correspondiente.  
+5. Para guardar en PDF, presiona el botón **"Descargar PDF"**.  
+
+---
+
+## 🌐 Publicar en GitHub Pages
+
+1. Crear un repositorio en GitHub.  
+2. Subir todos los archivos del proyecto.  
+3. Ir a **Settings > Pages**.  
+4. En **Branch**, seleccionar `main` y carpeta `/root`.  
+5. Guardar los cambios.  
+6. Acceder al diario en:  
+
+👉 `https://tuusuario.github.io/diario-escuela32/`
+
+---
+
+## 🖼️ Vista previa
+
+📌 **Portada tipo diario con fotos destacadas**  
+📌 **Noticias en columnas**  
+📌 **Botón para descargar en PDF**
+
+*(Puedes reemplazar estas imágenes con capturas reales de tu diario una vez publicado)*  
+
+---
+
+✍️ Desarrollado para la **Escuela 32 Caudillos Riojanos**  
+📅 Año 2025 | 👨‍🏫 Profesor Humberto Cáceres
