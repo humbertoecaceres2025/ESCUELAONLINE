@@ -130,13 +130,13 @@
 
   <section id="contacto">
     <h2>Contacto</h2>
-    <p><b>Email:</b> escuela32caudillosriojanos@educacionlarioja.com</p>
+    <p><b>Email:</b> humbertoecaceres@gmail.com</p>
     <p><b>Teléfono:</b> 3804805889</p>
     <p><b>Dirección:</b> Paraje Cebollar, La Rioja - Argentina</p>
   </section>
 
   <footer>
-    © HC 2025 Escuela 32 Caudillos Riojanos - Todos los derechos reservados.
+    © HCpro 2025  - Todos los derechos reservados.
   </footer>
 
   <script>
