@@ -103,7 +103,7 @@
     <h2>Bienvenidos</h2>
     <p>
       Esta es la página oficial de la <b>Escuela 32 Caudillos Riojanos</b>, ubicada en zona rural 
-      Paraje Cebollar, La Rioja. Aquí compartimos nuestras actividades, fotos y videos 
+      Paraje Cebollar, La Rioja. Dirrector/Profesor Humberto Caceres. Aquí compartimos nuestras actividades, fotos y videos 
       que realizamos junto a nuestros estudiantes.
     </p>
   </section>
@@ -132,7 +132,7 @@
     <h2>Contacto</h2>
     <p><b>Email:</b> humbertoecaceres@gmail.com</p>
     <p><b>Teléfono:</b> 3804805889</p>
-    <p><b>Dirección:</b> Paraje Cebollar, La Rioja - Argentina</p>
+    <p><b>Dirección:</b>  La Rioja - Argentina</p>
   </section>
 
   <footer>
