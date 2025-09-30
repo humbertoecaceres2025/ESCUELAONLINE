@@ -136,7 +136,7 @@
   </section>
 
   <footer>
-    © HCpro 2025  - Todos los derechos reservados.
+    © HC pro 2025  - Todos los derechos reservados.
   </footer>
 
   <script>
