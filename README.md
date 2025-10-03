@@ -98,7 +98,7 @@
     <a href="#actividades">Actividades</a>
     <a href="#contacto">Contacto</a>
   </nav>
-  portada_escuela32.pdf
+  
 
   <section id="inicio">
     <h2>Bienvenidos</h2>
@@ -127,7 +127,8 @@
     <h3>Agregar Nueva Actividad</h3>
     <input type="text" id="nuevaActividad" placeholder="Escribe la actividad...">
     <button onclick="agregarActividad()">Publicar</button>
-  </section>
+  </section>id="portada_escuela32.pdf
+  file:///C:/Users/Educacion/AppData/Local/Temp/Rar$EXa18340.32298.rartemp/index.html"
 
   <section id="contacto">
     <h2>Contacto</h2>
