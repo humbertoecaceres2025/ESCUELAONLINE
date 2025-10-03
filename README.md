@@ -99,60 +99,22 @@ MI ESCUELA ONLINE
     <a href="#galeria">Fotos y Videos</a>
     <a href="#actividades">Actividades</a>
     <a href="#contacto">Contacto</a>
-    <a href="#DIARIO ESCOLAR">Diario Escolar</a> # 📰 Diario Escolar - Escuela 32 Caudillos Riojanos
+    <a href="#DIARIO ESCOLAR">Diario Escolar</a> Diario Escolar - Escuela 32 Caudillos Riojanos
 
-📍 Paraje Cebollar, La Rioja – Argentina  
-👨‍🏫 Director: Prof. Humberto Cáceres  
-📅 Año 2025  
+ Paraje Cebollar, La Rioja – Argentina  
+ Director: Prof. Humberto Cáceres  
+ Año 2025  
 
-Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**.  
-Incluye una versión web y un archivo PDF descargable.
-
----
-
-## 🚀 Funcionalidades
-
-✅ Portada estilo revista con fotos y textos.  
-✅ Galería de actividades de los alumnos.  
-✅ Botón para **descargar el PDF**.  
-✅ Listo para publicar en **GitHub Pages**.  
-
----
-
-## 📂 Archivos incluidos
-
-- `index.html` → Página principal del diario  
-- `style.css` → Estilos modernos estilo revista  
-- `Diario_Escolar_Escuela32.pdf` → Versión descargable en PDF  
-- `img/` → Carpeta con imágenes usadas en el diario  
-
----
+Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**. 
 
 
+ Desarrollado para la **Escuela 32 Caudillos Riojanos**  
+ Prof. Humberto Cáceres – © 2025
 
----
-
-✍️ Desarrollado para la **Escuela 32 Caudillos Riojanos**  
-👨‍🏫 Prof. Humberto Cáceres – © 2025
-
-    <a href="#portada">Portada</a> # 📰 Diario Escolar - Escuela 32 Caudillos Riojanos
-
-📍 Paraje Cebollar, La Rioja – Argentina  
-👨‍🏫 Director: Prof. Humberto Cáceres  
-📅 Año 2025  
-
-Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**.  
-
-
-
- 
-
-
-
----
-
-✍️ Desarrollado por 
-👨‍🏫 Prof. Humberto Cáceres – © 2025
+    <a href="#portada">Portada</a> #  Diario Escolar - Escuela 32 Caudillos Riojanos
+    
+ Desarrollado por 
+ Prof. Humberto Cáceres – © 2025
 
   </nav>
   
