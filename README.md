@@ -98,6 +98,7 @@
     <a href="#actividades">Actividades</a>
     <a href="#contacto">Contacto</a>
   </nav>
+  portada_escuela32.pdf
 
   <section id="inicio">
     <h2>Bienvenidos</h2>
