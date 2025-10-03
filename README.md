@@ -1,3 +1,10 @@
+![Uploading esc3.jpeg…]()
+![esc2](https://github.com/user-attachments/assets/ffbf4dd8-1174-4feb-bacf-6493400504ab)
+![Escuela 32 22 de septiembre 2025 (1)](https://github.com/user-attachments/assets/b02dc29b-655a-4e83-b9ca-77e106acffbb)
+![ESCUELA 32 LECTURAS](https://github.com/user-attachments/assets/0953a8b6-113a-49d7-950f-835c35693014)
+![ESCUELA 32 LECTURA](https://github.com/user-attachments/assets/004dbaf3-8853-49a3-b828-1b50c3e372e9)
+![foto2](https://github.com/user-attachments/assets/58853914-d0c0-4e67-99fa-0e7c9ce7df21)
+![foto1](https://github.com/user-attachments/assets/4b98d347-4b73-4c73-b731-80643b3a946e)
 
 <html lang="es">
 <head>
