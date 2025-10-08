@@ -10,7 +10,7 @@ MI ESCUELA ONLINE
       margin: 0;
       font-family: 'Segoe UI', Arial, sans-serif;
       background: #f9f9f9;
-      color: #222;
+      color: #F54927;
     }
     header {
       background: linear-gradient(90deg, #ff6600, #ffcc00);
@@ -42,7 +42,7 @@ MI ESCUELA ONLINE
       margin: auto;
     }
     h2 {
-      color: #ff6600;
+      color: #99582E;
       border-bottom: 2px solid #ff6600;
       padding-bottom: 5px;
     }
@@ -54,7 +54,7 @@ MI ESCUELA ONLINE
     .galeria img, .galeria video {
       width: 100%;
       border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);![Uploading esc3.jpeg…]()
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);![Uploading esc32.jpeg…]()
       
     }
     .actividad {
@@ -101,12 +101,7 @@ MI ESCUELA ONLINE
     <a href="#contacto">Contacto</a>
     <a href="#DIARIO ESCOLAR">Diario Escolar</a> Diario Escolar - Escuela 32 Caudillos Riojanos
 
- Paraje Cebollar, La Rioja – Argentina  
- Director: Prof. Humberto Cáceres  
- Año 2025  
-
 Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**. 
-
 
  Desarrollado para la **Escuela 32 Caudillos Riojanos**  
  Prof. Humberto Cáceres – © 2025
@@ -123,8 +118,7 @@ Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillo
     <h2>Bienvenidos</h2>
     <p>
       Esta es la página oficial de la <b>Escuela 32 Caudillos Riojanos</b>, ubicada en zona rural 
-      Paraje Cebollar, La Rioja. Director/Profesor Humberto Caceres. Aquí compartimos nuestras actividades, fotos y videos 
-      que realizamos junto a nuestros estudiantes.
+      Paraje Cebollar, La Rioja. Director/Profesor Humberto Caceres. Aquí compartimos nuestras actividades, fotos y videos que realizamos junto a nuestros estudiantes.
     </p>
   </section>
 
