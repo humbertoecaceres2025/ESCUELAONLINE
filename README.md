@@ -99,18 +99,16 @@ MI ESCUELA ONLINE
     <a href="#galeria">Fotos y Videos</a>
     <a href="#actividades">Actividades</a>
     <a href="#contacto">Contacto</a>
-    <a href="#DIARIO ESCOLAR">Diario Escolar</a> Diario Escolar - Escuela 32 Caudillos Riojanos
-
-Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**. 
+    <a href="#DIARIO ESCOLAR">Diario Escolar</a> Este es el **Diario Escolar virtual estilo revista** de la **Escuela 32 Caudillos Riojanos**
+     <a href="#portada">Portada</a> #Diario Escolar
+   
 
  Desarrollado para la **Escuela 32 Caudillos Riojanos**  
- Prof. Humberto Cáceres – © 2025
+ Director Humberto Cáceres – © 2025
 
-    <a href="#portada">Portada</a> #  Diario Escolar - Escuela 32 Caudillos Riojanos
     
- Desarrollado por 
- Prof. Humberto Cáceres – © 2025
-
+    
+ 
   </nav>
   
 
